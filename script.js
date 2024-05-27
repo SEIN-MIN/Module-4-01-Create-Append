@@ -38,6 +38,11 @@ imgEl.setAttribute("src", "http://placekitten.com/200/300");
 nameEl.setAttribute("style", "font-size:25px; text-align:center;");
 kittenEl.setAttribute("style", "font-size:25px; text-align:center;");
 favoriteEl.setAttribute("style", "font-size:20px;");
+listEl.setAttribute("style", "background-color:#333333; padding:20px;")
+li1.setAttribute("style", "color:white; padding:5px; margin-left:35px; background-color:grey;")
+li2.setAttribute("style", "color:white; padding:5px; margin-left:35px; background-color:grey;")
+li3.setAttribute("style", "color:white; padding:5px; margin-left:35px; background-color:grey;")
+li4.setAttribute("style", "color:white; padding:5px; margin-left:35px; background-color:grey;")
 
 // TODO: Add ordered list items containing four favorite foods
 li1.textContent="watermelon 🍉";
